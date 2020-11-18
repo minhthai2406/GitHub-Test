@@ -1,4 +1,19 @@
+# GitHub-Test
 
-This is a list of what's great about my project !!!!!!!!!!!!!!!
+This is my GitHub test project.
 
-I'm making changes bruhhhhhhhhhhhhhhhhhhhhhhhh
+## Steps for using Git:
+
+0. Make a new folder and start git
+
+```
+mkdir foldername
+git init
+```
+
+1. Save your file
+2. ```git add filename```
+3. ```git commit -m "describe your changes"
+4. Repeat this forever!
+
+
